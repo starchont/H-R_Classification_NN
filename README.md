@@ -4,11 +4,11 @@ In this repository you will find :
 
 **1 :** A folder named Data
 
-1i)It contains the data of different stars, used in this project.
+1i) It contains the data of different stars, used in this project.
 
 **2 :** A folder named Code
 
-2i)It contains the code
+2i) It contains the code
 
 ## Description of the Project
 
